@@ -1,0 +1,7 @@
+2026-10-09 12:00:01 - IP: 192.168.1.50 - Status: SUCCESS - User: admin
+2026-10-09 12:01:15 - IP: 203.0.113.5 - Status: FAILED - User: root
+2026-10-09 12:01:16 - IP: 203.0.113.5 - Status: FAILED - User: root
+2026-10-09 12:01:18 - IP: 203.0.113.5 - Status: FAILED - User: backup_admin
+2026-10-09 12:01:20 - IP: 203.0.113.5 - Status: FAILED - User: guest
+2026-10-09 12:01:22 - IP: 203.0.113.5 - Status: SUCCESS - User: root
+2026-10-09 12:02:40 - IP: 192.168.1.88 - Status: SUCCESS - User: employee1
